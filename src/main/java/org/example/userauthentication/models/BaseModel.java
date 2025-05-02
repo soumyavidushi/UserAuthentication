@@ -1,4 +1,4 @@
-package org.example.userauthentication.repos;
+package org.example.userauthentication.models;
 
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
