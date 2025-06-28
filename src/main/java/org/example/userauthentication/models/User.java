@@ -12,6 +12,7 @@ import java.util.Date;
 public class User extends BaseModel {
     private String emailId;
     private String password;
+    private Role role;
 
     public User() {
         this.setCreatedAt(new Date());
